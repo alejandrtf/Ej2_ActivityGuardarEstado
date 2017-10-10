@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ej2_ActivityGuardarEstado</string>
+    <string name="labelNombre">Nombre</string>
+    <string name="hintNombre">Escribe tu nombre</string>
+    <string name="btAceptar">Aceptar</string>
+    <string name="btLimpiar">Limpiar</string>
+    <string name="btOcultar">OCULTAR</string>
+    <string name="btMostrar">MOSTRAR</string>
+    <string name="saludoDefecto">Hola Desconocido!!!</string>
+    <string name="titlePantallaSaludo">Pantalla Saludo</string>
+</resources>
